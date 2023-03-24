@@ -1,6 +1,6 @@
 const express = require('express')
 const bodyParser = require('body-parser')
-const mongodb = require('./src/db/connect')
+const mongodb = require('./db/connect')
 
 const port = process.env.PORT || 8080
 const app = express()
@@ -11,7 +11,7 @@ app
     res.setHeader('Access-Control-Allow-Origin', '*')
     next()
   })
-  .use('/', require('./src/routes'))
+  .use('/', require('./routes'))
 
 mongodb.initDb((err) => {
   if (err) {
