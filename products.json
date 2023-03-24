@@ -1,0 +1,170 @@
+{
+  "product": {
+    "Name": "Paracetamol",
+    "Price": 1.5,
+    "Count": "10 ct",
+    "Type": "Tablet",
+    "Description": "anti-pyratic",
+    "Category": "Medicine"
+  },
+  "product2": {
+    "Name": "Ibuprofen",
+    "Price": 2,
+    "Count": "10 ct",
+    "Type": "Tablet",
+    "Description": "analgesic",
+    "Category": "Medicine"
+  },
+  "product3": {
+    "Name": "Bandages Medical",
+    "Price": 8,
+    "Count": "3 inches",
+    "Type": "Bandages",
+    "Description": "Products Flexible Rolled Gauze Dressing",
+    "Category": "Medicine"
+  },
+  "product4": {
+    "Name": "Isopropyl Alcohol 70%",
+    "Price": 6.48,
+    "Type": "Fluid",
+    "Count": "32 Fl Oz",
+    "Description": "First Aid Antiseptic for Treatment of Minor Cuts and Scrapes",
+    "Category": "Medicine"
+  },
+  "product5": {
+    "Name": "Diclofenac Gel 1%",
+    "Price": 13.17,
+    "Type": "Topical Cream",
+    "Count": "100 g",
+    "Description": "Topical Cream Pain Relief",
+    "Category": "Medicine"
+  },
+  "product6": {
+    "Name": "KN95 Face Masks",
+    "Price": 19.99,
+    "Count": "50 ct",
+    "Type": "Mask",
+    "Description": "Breathable Comfortable and Disposable KN95 Mask",
+    "Category": "Medicine"
+  },
+  "product7": {
+    "Name": "Adhesive Tape Medical",
+    "Price": 2.16,
+    "Count": "1 inch x 10 yards",
+    "Type": "Band",
+    "Description": "Waterproof Adhesive Tape Sterile",
+    "Category": "Medicine"
+  },
+  "product8": {
+    "Name": "Canned tuna in oil",
+    "Price": 32,
+    "Count": "5 Ounces Pack of 4",
+    "Type": "Food",
+    "Description": "Portofino Solid Albacore Tuna",
+    "Category": "Canned Food "
+  },
+  "product9": {
+    "Name": "Cookies",
+    "Price": 22.86,
+    "Count": "7.5 Ounces",
+    "Type": "Food",
+    "Description": "Nutrient in a serving of food to a daily diet. 2,000 calories",
+    "Category": "Sweet Food"
+  },
+  "product10": {
+    "Name": "Chocolates",
+    "Price": 9.99,
+    "Count": "38 Ounces",
+    "Type": "Food",
+    "Description": "Nutrient in a serving of food to a daily diet. 2,000 calories",
+    "Category": "Sweet Food"
+  },
+  "product11": {
+    "Name": "Legumes",
+    "Price": 17.61,
+    "Count": "15 Ounces",
+    "Type": "Food",
+    "Description": "Organic Lentil Beans, No Salt Added, ",
+    "Category": "Canned Food"
+  },
+  "product12": {
+    "Name": "Warm Clothing",
+    "Price": 57.99,
+    "Count": "Sets 2 Piece",
+    "Type": "Clothing",
+    "Description": "Tracksuits Outfits Full Zip Hoodie and pant Set",
+    "Category": "Warm Clothing"
+  },
+  "product13": {
+    "Name": "Blankets",
+    "Price": 32.99,
+    "Count": "90 x 90 inches pack of 2",
+    "Type": "Clothing",
+    "Description": "Bedding Fleece Blanket",
+    "Category": "Warm Clothing"
+  },
+  "product14": {
+    "Name": "Hat and Gloves Set",
+    "Price": 22.99,
+    "Count": "Sets 3 Piece",
+    "Type": "Clothing",
+    "Description": "Gloves Neck Warmer Set with Warm Knit Fleece Lined",
+    "Category": "Warm Clothing"
+  },
+  "product15": {
+    "Name": "Water bottles",
+    "Price": 6.25,
+    "Count": "16.9 Ounces pack of 5",
+    "Type": "Fluid",
+    "Description": "Purified Water",
+    "Category": "Liquid Food"
+  },
+  "product16": {
+    "Name": "Battery Operated Radio",
+    "Price": 9.97,
+    "Count": "1 ct",
+    "Type": "Reception Comunication",
+    "Description": "AM FM Portable Pocket Radio, Compact Transistor Radios",
+    "Category": "Electric Products"
+  },
+  "product17": {
+    "Name": "Portable Charger",
+    "Price": 29.99,
+    "Count": "5V3.1A Qc 3.0 Fast Charging x 1 ct",
+    "Type": "Solar Charger",
+    "Description": "Portable Charger Power Bank External Battery",
+    "Category": "Electric Products"
+  },
+  "product18": {
+    "Name": "Lanterns",
+    "Price": 28.97,
+    "Count": "1000LM, 5 Light Modes",
+    "Type": "LE Rechargeable",
+    "Description": "Perfect Lantern Flashlight for Hurricane Emergency",
+    "Category": "Electric Products"
+  },
+  "product19": {
+    "Name": "Wet Toilet Wipes",
+    "Price": 5.05,
+    "Count": "42 Count Pack of 3",
+    "Type": "Disposable",
+    "Description": " Basics Flushable Toilet Wipes",
+    "Category": "Hygiene"
+  },
+  "product20": {
+    "Name": "Toilet Paper",
+    "Price": 5.19,
+    "Count": "4 Count",
+    "Type": "Disposable",
+    "Description": "Basics Flushable Toilet",
+    "Category": "Hygiene"
+  },
+  "product21": {
+    "Name": "Backpack",
+    "Price": 69.99,
+    "Count": "1 Count",
+    "Type": "Storage",
+    "Description": "NOVAMEDIC First Aid Empty EMT Tactical Backpack Bag",
+    "Category": "Tactical Backpack"
+  }
+}
