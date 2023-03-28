@@ -68,7 +68,7 @@ const deleteProduct = async (req, res) => {
   const response = await mongodb
     .getDb()
     .db('test')
-    .collection('contacts')
+    .collection('products')
     .deleteOne({ _id: productId })
   if (response.deletedCount !== 0) {
     res.status(200).send(productId + 'has been deleted')
